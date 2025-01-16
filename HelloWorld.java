@@ -1,3 +1,3 @@
-class Hui{
+class Hello{
 
 }
