@@ -1,3 +1,3 @@
-class HelloM{
+class Hello{
 
 }
